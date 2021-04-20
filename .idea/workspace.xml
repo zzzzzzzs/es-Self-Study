@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ed4be885-e9fb-4077-80f0-5f5e28690dbf" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\Data\JavaWarehouse\RepoMaven" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../JavaWarehouse/apache-maven-3.5.4" />
+        <option name="userSettingsFile" value="D:\Data\JavaWarehouse\apache-maven-3.5.4\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1rQKZBEsx1fjd6asyLwmUsmhznh" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/es-demo/src/main/java/com/me/write" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.importing" />
+  </component>
+  <component name="RebelAgentSelection">
+    <selection>jr</selection>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.me.write.write" />
+      <recent name="write" />
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Data\KnowledgeWarehouse\code\es-Self-Study\es-demo\src\main\java\com\me\write" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.write_index2">
+    <configuration name="read" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.me.write.reader.read" />
+      <module name="es-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.me.write.reader.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="write_index1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.me.write.write.write_index1" />
+      <module name="es-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.me.write.write.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="write_index2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.me.write.write.write_index2" />
+      <module name="es-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.me.write.write.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.write_index2" />
+        <item itemvalue="Application.write_index1" />
+        <item itemvalue="Application.read" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ed4be885-e9fb-4077-80f0-5f5e28690dbf" name="Default Changelist" comment="" />
+      <created>1618902926782</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1618902926782</updated>
+      <workItem from="1618902930277" duration="3652000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="27" key="#Project_Structure" timestamp="1618902935517">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="275" y="27" key="#Project_Structure/0.0.1366.738@0.0.1366.738" timestamp="1618902935517" />
+    <state x="462" y="124" key="FileChooserDialogImpl" timestamp="1618905544202">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="462" y="124" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1618905544202" />
+    <state width="1323" height="149" key="GridCell.Tab.0.bottom" timestamp="1618930212603">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="149" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1618930212603" />
+    <state width="1323" height="149" key="GridCell.Tab.0.center" timestamp="1618930212603">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="149" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1618930212603" />
+    <state width="1323" height="149" key="GridCell.Tab.0.left" timestamp="1618930212603">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="149" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1618930212603" />
+    <state width="1323" height="149" key="GridCell.Tab.0.right" timestamp="1618930212603">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="149" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1618930212603" />
+    <state x="57" y="93" key="new project wizard" timestamp="1618902967249">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="57" y="93" key="new project wizard/0.0.1366.738@0.0.1366.738" timestamp="1618902967249" />
+    <state x="346" y="59" width="672" height="678" key="search.everywhere.popup" timestamp="1618907333885">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="346" y="59" width="672" height="678" key="search.everywhere.popup/0.0.1366.738@0.0.1366.738" timestamp="1618907333885" />
+  </component>
+</project>
